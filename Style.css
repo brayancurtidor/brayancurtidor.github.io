@@ -517,12 +517,16 @@ bottom: 50;
   84% { margin-left:-500%;}
   100% { margin-left:-500%;}
   
-}
-h3{
-		position: relative;
-    left: 500px;
-}
-.familia-foto{
-	position: relative;
-    left: 500px;
-}
+          .familia{
+          background-color: blueviolet;
+          
+          width: 600px;
+          position: absolute;
+          right: 300px;
+          top: 700px;
+
+        }
+	
+    h3{
+          text-align: center;
+        }
