@@ -562,10 +562,9 @@ border: 1px solid #e8e8e8;
 	/*background: #355C7D;  
 background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  
 background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); */
-	background: #20002c;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #cbb4d4, #20002c); 
-background: linear-gradient(to right, #cbb4d4, #20002c); 
-
+  background: #355C7D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #c045b0, #6C5B7B, #355C7D);
+background: linear-gradient(to right, #e248d5, #6C5B7B, #355C7D); 
 
     border-radius: 25px;
 }
