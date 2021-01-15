@@ -1,0 +1,78 @@
+<html><encabezado>
+  <title>
+    Plus TI - Por un Mundo Financiero Mas Seguro
+  </title>
+   
+<link href="Style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+
+<div id="top" class="navbar">
+  <a href="index.html"> <img src="logo_plusti ACTUAL.jpeg"> </a>
+  <a href="index.html">Inicio</a>
+  <a href="https://brayancurtidor.github.io/compañia">Compañia</a>
+  <div class="dropdown">
+    <button class="dropbtn">Soluciones 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://brayancurtidor.github.io/Prevencion">Prevencion de Fraude </a>
+      <a href="https://brayancurtidor.github.io/Cumplimiento">Cumplimineto PLD</a>
+      <a href="https://brayancurtidor.github.iog/GRC">GRC- Riesgos y Oportunidades </a>
+      <a href="https://brayancurtidor.github.io/auditoria">Auditoría continua </a>
+      <a href="https://brayancurtidor.github.io/negocio">Negocios </a>
+      <a href="https://brayancurtidor.github.io/comercio">Comercio Internacional </a>
+    </div>
+  </div> 
+  <div class="dropdown">
+    <button class="dropbtn">Cursos 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://brayancurtidor.github.io/calendario">Calendario </a>
+      <a href="https://brayancurtidor.github.io/eLerning">eLerning Services</a>
+      <a href="https://brayancurtidor.github.io/cursos">Cursos Q4  2020</a>
+    </div>
+  </div> 
+    <div class="dropdown">
+    <button class="dropbtn">Recursos 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://brayancurtidor.github.io/podcast">Podcast </a>
+      <a href="https://brayancurtidor.github.io/casos">Casos de Estudio </a>
+      <a href="https://brayancurtidor.github.io/eventos">Eventos </a>
+       <a href="https://brayancurtidor.github.io/Blog">Blog </a>
+    </div>
+  </div> 
+   <a href="https://brayancurtidor.github.io/comunidad">Comunidad</a>
+  <a href="https://brayancurtidor.github.io/soporte">Soporte</a>
+  <a href="https://brayancurtidor.github.io/contacto">Contactenos</a>
+</div>
+
+
+</header> 
+
+
+<body>
+
+
+</body>
+
+
+  <footer style="background: Transparent;">
+	  
+   <div style="position: absolute;/! left: ; *//! align-content: center; /left: ;margin: 88px 0px 0px calc((100% - 5px) * 0.4);/! margin-top: 80px; */">
+	   <a href="index.html"> <img src="logo_plusti ACTUAL.png"> </a>    
+    Plus Technologies &amp; Innovations© 2020 | Todos los derechos reservados
+	  </div>
+    <div style="height: 150px; overflow: hidden;">
+        <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
+		
+          <path d="M-1.41,33.05 C285.26,89.30 304.46,-66.61 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: rgb(17, 17, 17);">
+            
+          </path></svg></div>   
+     
+	</footer>
+  </html>
