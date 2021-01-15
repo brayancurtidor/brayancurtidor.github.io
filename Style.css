@@ -559,9 +559,13 @@ border: 1px solid #e8e8e8;
 	position: relative;
      left: 225px;
 	
-	background: #355C7D;  
+	/*background: #355C7D;  
 background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  
-background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); 
+background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); */
+	background: #20002c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #cbb4d4, #20002c); 
+background: linear-gradient(to right, #cbb4d4, #20002c); 
+
 
     border-radius: 25px;
 }
