@@ -499,7 +499,14 @@ bottom: 50;
   display: block;
 }
 
-
+.mensaje
+{
+padding: 1em;
+border-radius: 8px;
+bottom: 475px;
+width: 250;
+background: #26304d;	
+}
 
 
 @keyframes cambio2
@@ -515,13 +522,23 @@ bottom: 50;
   66% { margin-left:-400%;}
   81% { margin-left:-400%;}
   84% { margin-left:-500%;}
-  100% { margin-left:-500%;}
+  98% { margin-left:-500%;}
 }
+.accesos
+{
+	background: #26304d;
+box-shadow: 0 1px 2px 0 rgba(51, 125, 189, 0.5);
+margin: 1rem 0;
+padding: 1em;
+border-radius: 25px;
+border: 1px solid #e8e8e8;
+}
+	
 .familia{
           background-color: blueviolet;
           
           width: 600px;
-          position: absolute;
+      
           right: 300px;
           top: 775px;
 
