@@ -557,8 +557,8 @@ border: 1px solid #e8e8e8;
     /*border: 5px solid tomato;*/
     padding: 15px;
 	position: relative;
-    left: 100px;
-	background-color: rgba(226, 106, 226, 0.363);
+     left: 225px;
+	background-color: rgb(226 106 226 / 39%);
     border-radius: 25px;
 }
 
