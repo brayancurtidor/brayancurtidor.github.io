@@ -549,18 +549,18 @@ border: 1px solid #e8e8e8;
 
 .parrafo-compania{
 
-    background-color: aqua;
+    background-color: rgba(77, 122, 245, 0.548);
     border: 2px solid springgreen;
 
 }
 
 
 .contenido-compania{
-    width: 900px;
+    width: 950px;
     height: auto;
     border: 5px solid tomato;
     padding: 15px;
-
-
+	position: relative;
+    left: 150px;
 }
 
