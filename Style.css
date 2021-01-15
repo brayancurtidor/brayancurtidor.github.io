@@ -518,7 +518,11 @@ bottom: 50;
   100% { margin-left:-500%;}
   
 }
+h3{
+		position: relative;
+    left: 500px;
+}
 .familia-foto{
 	position: relative;
-    left: 50px;
+    left: 500px;
 }
