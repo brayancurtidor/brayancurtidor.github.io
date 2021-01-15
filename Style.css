@@ -547,3 +547,20 @@ border: 1px solid #e8e8e8;
           text-align: center;
         }
 
+.parrafo-compania{
+
+    background-color: aqua;
+    border: 2px solid springgreen;
+
+}
+
+
+.contenido-compania{
+    width: 900px;
+    height: auto;
+    border: 5px solid tomato;
+    padding: 15px;
+
+
+}
+
