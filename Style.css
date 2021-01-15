@@ -517,16 +517,4 @@ bottom: 50;
   84% { margin-left:-500%;}
   100% { margin-left:-500%;}
   
-          .familia{
-          background-color: blueviolet;
-          
-          width: 600px;
-          position: absolute;
-          right: 300px;
-          top: 700px;
 
-        }
-	
-    h3{
-          text-align: center;
-        }
