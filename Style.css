@@ -567,8 +567,8 @@ border: 1px solid #e8e8e8;
 .encabezado-2{
 width: 100%px;
 height: 75px;
-background-color: tomato;
-border: 3px solid springgreen;
+background-color: #9119c58a;
+border: 3px solid #e1e6e4;
 
 
 
@@ -580,17 +580,13 @@ border: 3px solid springgreen;
 .img-logo{
 width: 100px;
 height: auto;
-background-color: tomato;
-border: 2px solid springgreen;
 position: absolute;
 left: 200px;
-top: 25px;
+top: 85px;
 }
 .tit-logo{
     width: 250px;
     height: 75px;
-    background-color: tomato;
-    border: 2px solid springgreen;
     position: absolute;
     left: 320px;
    
@@ -598,13 +594,12 @@ top: 25px;
 .botones-encabezado2{
     width: 300px;
     height: 50px;
-    background-color: tomato;
-    border: 2px solid springgreen;
+ 
     display: flex;
     justify-content:space-around;
     position: absolute;
     left: 600px;
-    top: 25px;
+    top: 80px;
 
 }
 .monitor{
