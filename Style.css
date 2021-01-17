@@ -639,4 +639,15 @@ td{
 .tabla-fraude{
 	width:225px
 }
+.tabla-fraude{
+	width:225px
+}
+
+.contenido-lpd{	
+	padding-left:25px;
+	position:relative;
+	left:225px;
+	width:950px;
+	padding-top:50px;
+}
 
