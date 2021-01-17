@@ -615,7 +615,6 @@ line-height:50px;;
 .contenido-fraudes{
     width: 100%;
     height: auto;
-    background-color: violet;
     padding-top: 25px;
     padding-right: 10px;
     padding-left:10px ;
@@ -629,12 +628,15 @@ line-height:50px;;
     font-size: 25px;
 }
 .tabla-fraudess{
-	border: 5px solid red;
-    width: 1200px;
-    height: 900px;
+    height: auto;
 }
 td{
-
+    border-radius:25px;
+	background-color:#bcb7ca52;
     border: 1px solid rgba(64, 39, 175, 0.603);
-    
+    font-size:15px
 }
+.tabla-fraude{
+	width:225px
+}
+
