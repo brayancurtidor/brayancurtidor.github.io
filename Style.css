@@ -564,3 +564,53 @@ border: 1px solid #e8e8e8;
     border-radius: 25px;
 }
 
+.encabezado-2{
+width: 100%px;
+height: 75px;
+background-color: tomato;
+border: 3px solid springgreen;
+
+
+
+}
+.botones-encabezado2, .img-logo, .tit-logo{
+    display: inline-block;
+
+}
+.img-logo{
+width: 100px;
+height: auto;
+background-color: tomato;
+border: 2px solid springgreen;
+position: absolute;
+left: 200px;
+top: 25px;
+}
+.tit-logo{
+    width: 250px;
+    height: 75px;
+    background-color: tomato;
+    border: 2px solid springgreen;
+    position: absolute;
+    left: 320px;
+   
+}
+.botones-encabezado2{
+    width: 300px;
+    height: 50px;
+    background-color: tomato;
+    border: 2px solid springgreen;
+    display: flex;
+    justify-content:space-around;
+    position: absolute;
+    left: 600px;
+    top: 25px;
+
+}
+.monitor{
+    font-size: 30px;
+}
+.D, .P{
+
+line-height:50px;;
+}
