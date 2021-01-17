@@ -628,13 +628,13 @@ line-height:50px;;
 .fraudetit{
     font-size: 25px;
 }
-table{
-
+.tabla-fraudess{
+	border: 5px solid red;
     width: 1200px;
     height: 900px;
 }
 td{
 
     border: 1px solid rgba(64, 39, 175, 0.603);
-    border-radius: 10px;
+    
 }
