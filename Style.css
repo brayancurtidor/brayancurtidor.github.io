@@ -609,3 +609,32 @@ top: 85px;
 
 line-height:50px;;
 }
+
+
+
+.contenido-fraudes{
+    width: 100%;
+    height: auto;
+    background-color: violet;
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-left:10px ;
+
+}
+.fraudesub{
+    font-size: 35px;
+
+}
+.fraudetit{
+    font-size: 25px;
+}
+table{
+
+    width: 1200px;
+    height: 900px;
+}
+td{
+
+    border: 1px solid rgba(64, 39, 175, 0.603);
+    border-radius: 10px;
+}
