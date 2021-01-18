@@ -674,4 +674,14 @@ td{
     border-radius: 25px;
 }
 
+.botones-encabezado2-grc{
+width: 475px;
+    height: 50px;
+ 
+    display: flex;
+    justify-content:space-around;
+position:absolute;
+    left:800px;
+}
+
 
