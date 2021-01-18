@@ -650,24 +650,27 @@ td{
 	padding-top:50px;
 }
 
-contenido-grc{
-    width: 100%;
+.contenido-grc{
+    width:950px;
     height: auto;
-    background-color: rgb(146, 245, 132);
-    padding-top: 25px;
+    padding-top: 35px;
     padding-right: 10px;
-    padding-left:10px ;
+    padding-left:10px;
+    position:relative;
+    left:225px;
+
+    
 
 }
 .tabla-grc{
 
-    border: 1px solid rgba(64, 39, 175, 0.603);
+    border: 1px solid rgb(163 157 187 / 64%);
     border-radius: 25px;
 }
 .td-grc{
-    border: 2px solid rgba(169, 165, 190, 0.603);
+	background-color:#bcb7ca52;
+    border: 2px solid rgb(149 148 150 / 65%);
     border-radius: 25px;
-
-
 }
+
 
