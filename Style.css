@@ -650,3 +650,24 @@ td{
 	padding-top:50px;
 }
 
+contenido-grc{
+    width: 100%;
+    height: auto;
+    background-color: rgb(146, 245, 132);
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-left:10px ;
+
+}
+.tabla-grc{
+
+    border: 1px solid rgba(64, 39, 175, 0.603);
+    border-radius: 25px;
+}
+.td-grc{
+    border: 2px solid rgba(169, 165, 190, 0.603);
+    border-radius: 25px;
+
+
+}
+
