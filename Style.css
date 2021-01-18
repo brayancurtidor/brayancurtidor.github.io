@@ -631,6 +631,7 @@ line-height:50px;;
     height: auto;
 }
 td{
+	 border-radius: 25px;
 	background-color:#bcb7ca52;
     border: 1px solid rgba(64, 39, 175, 0.603);
     font-size:15px
